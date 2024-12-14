@@ -78,7 +78,7 @@ p{
 }
 .signup:hover{
     background-color: rgb(224, 148, 240);
-    color: white;
+    color: white ;
 }
 .login:hover{
     background-color: rgb(130, 177, 248);

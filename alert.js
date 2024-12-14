@@ -1,3 +1,3 @@
 function start(){
-    alert("Starting...");
+    alert("Starting....");
 }
