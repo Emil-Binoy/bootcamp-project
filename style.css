@@ -70,3 +70,17 @@ p{
     margin-top: 30px;
     background: linear-gradient(30deg,rgb(138, 197, 252),rgb(207, 16, 207));
 }
+.start:hover{
+    background: linear-gradient(30deg,rgb(207, 16, 207),rgb(138, 197, 252));
+    transform:scale(1.1);
+    color: white;
+    transition: transform 0.2s ease-in-out;
+}
+.signup:hover{
+    background-color: rgb(224, 148, 240);
+    color: white;
+}
+.login:hover{
+    background-color: rgb(130, 177, 248);
+    color: black;
+}
